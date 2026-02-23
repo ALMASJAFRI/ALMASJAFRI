@@ -12,98 +12,87 @@ B.Tech CSE (AKTU)
 
 **Languages:** Python, JavaScript, HTML5, CSS3  
 
-**Backend:** Django, Django REST Framework, REST APIs, Authentication,  
-Django ORM, Redis, Background Tasks  
+**Backend:** Django, Django REST Framework, REST APIs, Authentication (Email & OTP),  
+Django ORM, Redis, WebSockets, Django Channels, OAuth, Background Tasks  
 
-**AI & RAG:** LangChain, Pinecone, BM25, GPT APIs  
+**AI & RAG:** LangChain, Pinecone, BM25, LLM Integration, Hybrid Retrieval,  
+Prompt Engineering, Pydantic  
 
 **Database:** PostgreSQL, SQLite  
 
 **Cloud & Deployment:** Render, Railway, PythonAnywhere, Cloudinary  
 
-**Payments:** PayU, Stripe
+**Payments:** PayU, Stripe (Secure Integration)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almasjafri&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almasjafri&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=almasjafri&theme=tokyonight)
+## 🚀 Projects
+
+### 🧠 Project Nexus AI — AI-Powered E-Commerce Platform
+Full-stack marketplace with secure authentication, dynamic pricing, inventory management, and integrated payment gateway.
+
+**Highlights:**
+- Email-based authentication + OAuth integration
+- PayU secure payment gateway (SHA-512 verification)
+- Cloudinary media storage with CDN optimization
+- AI documentation pipeline using LangChain + ReportLab
+- Redis caching for performance improvement
+- Thread-based concurrency for optimized processing
+
+**Tech:** Django, DRF, PostgreSQL, Redis, LangChain, ReportLab, Cloudinary
+
 ---
 
-## 🚀 Focus Areas
+### 📄 DOCmaker — Documentation-as-a-Service (DaaS)
+AI-powered platform that generates professional PDFs from uploaded codebases using hybrid RAG architecture.
+
+**Highlights:**
+- Hybrid Retrieval (Pinecone + BM25)
+- Intelligent chunking & vectorization
+- Custom OTP authentication + OAuth integration
+- Real-time document status updates using WebSockets (Django Channels)
+- Background task processing for async PDF generation
+- Redis caching for faster responses
+- Cloud storage for files & generated outputs
+
+**Tech:** Django, DRF, LangChain, Pinecone, Redis, pydantic,WebSockets, Cloudinary
+
+---
+
+### 💼 Business VEN — Inventory & Financial System
+Production-grade inventory management system with stock tracking, order workflows, dashboards, and notifications.
+
+**Highlights:**
+- Normalized database design
+- Redis-based optimization
+- Email notifications
+- Context processors for dynamic UI
+- Secure deployment
+
+**Tech:** Django, SQLite, Redis, PythonAnywhere
+
+## 🏆 Key Achievements
+
+- Architected 3+ production full-stack applications  
+- Built secure payment systems (PayU, Stripe)  
+- Implemented production RAG pipelines  
+- Reduced API response time via Redis caching  
+- Optimized database performance with query tuning  
+- Integrated Cloudinary CDN across applications  
+- Designed concurrent vector upload systems  
+- Deployed on Render, Railway & PythonAnywhere  
+- Strong DSA foundation (170+ LeetCode)
+
+---
+
+## 🎯 Current Focus
 
 - Scalable Backend Architecture  
-- Production RAG Systems  
-- API Optimization & Caching  
-- Secure Authentication Systems  
-- Cloud-Based Deployments  
+- System Design Principles  
+- Microservices Concepts  
+- High-Performance APIs  
+- AI-Driven Backend Engineering  
 
 ---
 
-⚡ Building production-grade systems with clean architecture.- Cloudinary storage for archives & PDFs
-
-**Tech Stack:**  
-Django, DRF, LangChain, Pinecone, BM25, ReportLab, Redis, Celery, Cloudinary
-
----
-
-## 💼 Business VEN — Inventory & Financial Management System
-🌐 sftraders.pythonanywhere.com  
-🔗 GitHub: freelanceBusiness  
-
-### Highlights:
-- Complete inventory tracking system
-- Order workflow management
-- Financial dashboards
-- Email notifications
-- Normalized database schema
-- Strategic indexing
-- Redis-based view optimization
-- Context processors for dynamic UI
-
-**Tech Stack:**  
-Django, SQLite, Redis, HTML5, CSS3, PythonAnywhere
-
----
-
-# 🏆 Key Achievements
-
-- Architected **3+ full-stack production systems**
-- Implemented **secure payment gateways** (PayU/Stripe)
-- Built **production-grade RAG pipelines**
-- Reduced API response time using Redis caching
-- Optimized database performance via query tuning
-- Integrated Cloudinary CDN-based media management
-- Deployed applications on multiple cloud platforms
-- Designed concurrent systems for vector database uploads
-- Strong foundation in Data Structures & Algorithms (170+ LeetCode)
-
----
-
-# 🔥 Core Competencies
-
-- Scalable Backend Architecture
-- REST API Design
-- System Optimization
-- AI Integration in Backend Systems
-- Cloud Deployment
-- Secure Authentication Systems
-- Production RAG Implementations
-- Database Performance Engineering
-
----
-
-# 📌 Current Focus
-
-- Advanced System Design
-- Microservices Architecture
-- High-Performance Backend Systems
-- AI-Driven Backend Engineering
-- Scalable Cloud Infrastructure
-
----
-
-⚡ Building production-ready systems.  
-⚡ Optimizing performance.  
-⚡ Integrating AI with backend architecture.
+⚡ Building reliable, scalable, production-ready systems.⚡ Integrating AI with backend architecture.
