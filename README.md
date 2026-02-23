@@ -26,13 +26,9 @@ Django ORM, Redis, Background Tasks
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALMASJAFRI&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALMASJAFRI&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALMASJAFRI&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almasjafri&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almasjafri&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=almasjafri&theme=tokyonight)
 ---
 
 ## 🚀 Focus Areas
