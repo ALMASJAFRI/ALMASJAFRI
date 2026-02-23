@@ -1,114 +1,51 @@
-# 👋 Almas Jafri
+# 🔥 Almas Jafri
 
-Full-Stack Django Developer | Backend & AI Systems Engineer  
-📍 Lucknow, Uttar Pradesh, India  
-📧 almasjafri12@gmail.com  
-🔗 LinkedIn | GitHub  
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science Engineering**  
-NIIT (Dr. A.P.J. Abdul Kalam Technical University), Lucknow, UP  
-
-**Academic Excellence:**
-- Class 12 (ISC): **90%**
-- Class 10 (ICSE): **91%**
-- **170+ LeetCode Problems Solved**
+Full-Stack Django Developer | Backend & AI Systems  
+Lucknow, India  
+B.Tech CSE (AKTU)  
+90% (Class 12) | 91% (Class 10)  
+170+ LeetCode Problems
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### Programming & Frontend
-- Python
-- JavaScript
-- HTML5
-- CSS3
+**Languages:** Python, JavaScript, HTML5, CSS3  
 
-### Backend Development
-- Django
-- Django REST Framework (DRF)
-- REST APIs
-- Authentication Systems (Email & Phone OTP)
-- Role-Based Access Control
-- Django ORM
-- Context Processors
-- Background Task Processing
+**Backend:** Django, Django REST Framework, REST APIs, Authentication,  
+Django ORM, Redis, Background Tasks  
 
-### Databases & Caching
-- PostgreSQL
-- SQLite
-- Redis
-- Query Optimization
-- Database Indexing
+**AI & RAG:** LangChain, Pinecone, BM25, GPT APIs  
 
-### AI & RAG Systems
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- Hybrid Retrieval (Pinecone + BM25)
-- Pinecone Vector Database
-- GPT APIs
-- Prompt Engineering
-- Concurrent Vector Uploads
+**Database:** PostgreSQL, SQLite  
 
-### Cloud & Deployment
-- Render
-- PythonAnywhere
-- Railway
-- Cloudinary (Media Storage + CDN)
-- CI/CD Practices
-- Environment Management
+**Cloud & Deployment:** Render, Railway, PythonAnywhere, Cloudinary  
 
-### Payments & Security
-- PayU Integration
-- Stripe Integration
-- SHA-512 Encryption
-- Secure Transaction Handling
+**Payments:** PayU, Stripe
 
 ---
 
-# 🚀 Project Experience
+## 📊 GitHub Stats
 
-## 🧠 Project Nexus AI
-**AI-Powered E-Commerce Marketplace**  
-🌐 smartprojectgallery.onrender.com  
-🔗 GitHub: Project-Nexus-AI  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALMASJAFRI&show_icons=true&theme=tokyonight)
 
-### Highlights:
-- Full-stack e-commerce platform
-- Custom email authentication system
-- Dynamic multi-variant pricing
-- Inventory management system
-- Integrated **PayU payment gateway**
-- Secure transaction processing with error recovery
-- Cloudinary integration for optimized media delivery
-- AI documentation pipeline using **LangChain + ReportLab**
-- Redis caching for performance optimization
-- Thread-based concurrency for faster processing
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALMASJAFRI&layout=compact&theme=tokyonight)
 
-**Tech Stack:**  
-Django, DRF, PostgreSQL, Redis, LangChain, ReportLab, Cloudinary, Render
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALMASJAFRI&theme=tokyonight)
 
 ---
 
-## 📄 DOCmaker — Documentation-as-a-Service (DaaS)
-🌐 docmaker.onrender.com  
-🔗 GitHub: DOCMAKER  
+## 🚀 Focus Areas
 
-### Highlights:
-- Automated PDF documentation generation from codebases
-- Intelligent chunking & vectorization
-- Hybrid RAG system:
-  - Pinecone Vector Search
-  - BM25 Retrieval
-- Custom phone OTP authentication
-- Concurrency for fast RAG responses
-- Background task processing
-- User notifications for async jobs
-- Redis caching for performance
-- Cloudinary storage for archives & PDFs
+- Scalable Backend Architecture  
+- Production RAG Systems  
+- API Optimization & Caching  
+- Secure Authentication Systems  
+- Cloud-Based Deployments  
+
+---
+
+⚡ Building production-grade systems with clean architecture.- Cloudinary storage for archives & PDFs
 
 **Tech Stack:**  
 Django, DRF, LangChain, Pinecone, BM25, ReportLab, Redis, Celery, Cloudinary
