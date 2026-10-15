@@ -10,15 +10,16 @@ B.Tech CSE (AKTU)
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, JavaScript, HTML5, CSS3  
+**Languages:** Python, C#, JavaScript, HTML5, CSS3  
 
 **Backend:** Django, Django REST Framework, REST APIs, Authentication (Email & OTP),  
-Django ORM, Redis, WebSockets, Django Channels, OAuth, Background Tasks  
+Django ORM, Redis, WebSockets, Django Channels, OAuth, Background Tasks,  
+.NET Core API, .NET Web API 2, .NET Web Forms  
 
 **AI & RAG:** LangChain, Pinecone, BM25, LLM Integration, Hybrid Retrieval,  
 Prompt Engineering, Pydantic  
 
-**Database:** PostgreSQL, SQLite  
+**Database:** PostgreSQL, SQLite, SQL Server, Stored Procedures  
 
 **Cloud & Deployment:** Render, Railway, PythonAnywhere, Cloudinary  
 
@@ -70,6 +71,31 @@ Production-grade inventory management system with stock tracking, order workflow
 - Secure deployment
 
 **Tech:** Django, SQLite, Redis, PythonAnywhere
+
+---
+
+### 🤖 Python Automation Workflows
+Automation-focused backend utilities for repetitive operational and data processing tasks.
+
+**Highlights:**
+- Built Python automation scripts to reduce manual backend workflows
+- Integrated automation with API and database operations
+- Improved task turnaround with script-driven processing
+
+**Tech:** Python, SQL, API Integration
+
+---
+
+## 💼 Experience
+
+### Backend Developer Intern — Brainpan Innovations Private Limited
+- Duration: **07 months**
+- Worked on **.NET Core API** and **.NET Web API 2** services
+- Developed and maintained modules in **.NET Web Forms**
+- Worked with **SQL** and **Stored Procedures**
+- Built backend and automation tasks using **Python**
+
+---
 
 ## 🏆 Key Achievements
 
