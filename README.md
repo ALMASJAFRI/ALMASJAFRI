@@ -3,7 +3,7 @@
 **Backend & AI Systems Engineer | .NET Core, Python & LangGraph**
 📍 Lucknow, UP, India | 🔗 [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/almasjafri) | 💻 [GitHub](https://www.google.com/search?q=https://github.com/ALMASJAFRI)
 
-Building high-performance APIs, autonomous AI agents, and secure backend architectures, as detailed in ResumeUpdated.pdf. I specialize in backend system optimization, custom authentication flows, and multi-agent RAG pipelines[cite: 1].
+Backend and Full-Stack Developer with 7 months of internship experience building .NET Core APIs, SQL Server stored procedures, and Python automation systems[cite: 1]. I specialize in scaling authentication endpoints, enforcing single sign-in via JWT token versioning, and building multi-agent LangGraph CLI tools alongside 3+ production Django and AI applications[cite: 1].
 
 ---
 
