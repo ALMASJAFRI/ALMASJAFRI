@@ -57,11 +57,11 @@ Backend and Full-Stack Developer with **7 months of internship experience** buil
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,js,html,css,redis,postgres,sqlite&perline=10&theme=dark" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,OAuth,JWT,js,html,css,redis,postgres,sqlite&perline=10&theme=dark" alt="Core stack" />
 
 <br/>
 
-<sub><b>Languages:</b> Python · C# (.NET Core) · SQL · SQL Server · JavaScript · HTML5 · CSS3</sub>
+<sub><b>Languages:</b> Python · C# (.NET Core) · SQL · SQL Server · JavaScript · HTML5 · OAuth</sub>
 
 <br/><br/>
 
