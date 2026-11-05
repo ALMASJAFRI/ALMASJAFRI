@@ -57,14 +57,20 @@ Backend and Full-Stack Developer with **7 months of internship experience** buil
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,OAuth,JWT,js,html,css,redis,postgres,sqlite&perline=10&theme=dark" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,js,html,css,redis,postgres,sqlite&perline=10&theme=dark" alt="Core stack" />
 
 <br/>
 
-<sub><b>Languages:</b> Python · C# (.NET Core) · SQL · SQL Server · JavaScript · HTML5 · OAuth</sub>
+<sub><b>Languages:</b> Python · C# (.NET Core) · SQL · JavaScript · HTML5 · CSS3</sub>
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hybrid%20RAG-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-0284C7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
