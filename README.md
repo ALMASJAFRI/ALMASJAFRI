@@ -8,9 +8,6 @@
 </a>
 
 <br/>
-
-<sub><b>Django/DRF Backend Developer</b> | Redis Optimization | WebSockets | OAuth | GenAI | RAG (LangChain + Pinecone) | 170+ LeetCode</sub>
-
 <br/><br/>
 
 <a href="https://linkedin.com/in/almasjafri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
