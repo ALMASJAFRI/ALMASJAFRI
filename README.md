@@ -254,6 +254,27 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
 
 <br/>
 
+<!-- ============================== GITHUB STATS ============================== -->
+<h2 align="center">📊 GitHub Overview & Contributions</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="middle" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALMASJAFRI&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=0ea5e9&border_color=1e293b&hide_border=false" width="100%" alt="Almas Jafri's GitHub Stats" />
+</td>
+<td width="50%" valign="middle" align="center">
+  <img src="https://streak-stats.demolab.com?user=ALMASJAFRI&background=0f172a&border=1e293b&stroke=1e293b&ring=38bdf8&fire=0ea5e9&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" width="100%" alt="Almas Jafri's GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="middle" align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALMASJAFRI&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=22c55e&area=true&area_color=38bdf8&hide_border=false&border_color=1e293b&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Almas Jafri's Contribution Graph" />
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ============================== FOOTER ============================== -->
 <div align="center">
 
