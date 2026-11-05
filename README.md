@@ -254,6 +254,51 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
 
 <br/>
 
+<!-- ============================== GITHUB STATS ============================== -->
+<h2 align="center">📊 GitHub & Coding Activity</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="middle" align="center">
+  <img src="https://streak-stats.demolab.com?user=ALMASJAFRI&background=0f172a&border=1e293b&stroke=1e293b&ring=38bdf8&fire=0ea5e9&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" width="100%" alt="Almas Jafri's GitHub Streak" />
+</td>
+<td width="50%" valign="middle" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Almas Jafri's GitHub Stats" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Top Languages" />
+</td>
+<td width="50%" valign="middle" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Commits by Language" />
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="middle" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Almas Jafri's Contribution Graph" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================== CODING STATS ============================== -->
+<h2 align="center">📊 Coding Activity & Language Breakdown</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="middle" align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" alt="LeetCode Stats" />
+</td>
+<td width="50%" valign="middle" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Top Languages by Commit" />
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ============================== CODING ANALYTICS ============================== -->
 <h2 align="center">📊 Codebase Breakdown & Engineering Analytics</h2>
 
