@@ -254,45 +254,24 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
 
 <br/>
 
-<!-- ============================== ENGINEERING IMPACT ============================== -->
-<h2 align="center">📊 Engineering Impact & Production Metrics</h2>
+<!-- ============================== CODING ANALYTICS ============================== -->
+<h2 align="center">📊 Codebase Breakdown & Engineering Analytics</h2>
 
 <table align="center" width="100%">
 <tr>
-<td width="25%" align="center" valign="top">
-  <h3>⚡ 99.99%</h3>
-  <b>Auth Lookup Filtering</b><br/>
-  <sub>In-memory Bloom Filter (0.01% FP rate) blocking invalid DB hits at startup</sub>
+<td width="33%" valign="middle" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Repos per Language" />
 </td>
-<td width="25%" align="center" valign="top">
-  <h3>🔐 100%</h3>
-  <b>Request & File Security</b><br/>
-  <sub>Custom JWT TokenVersion middleware & 11-byte magic header validation</sub>
+<td width="34%" valign="middle" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Commits per Language" />
 </td>
-<td width="25%" align="center" valign="top">
-  <h3>🤖 6+ Tools</h3>
-  <b>Multi-Agent CLI & RAG</b><br/>
-  <sub>Tree-sitter AST + NetworkX graph + Hybrid BM25 & Vector RRF pipeline</sub>
-</td>
-<td width="25%" align="center" valign="top">
-  <h3>🧮 190+</h3>
-  <b>LeetCode Problems</b><br/>
-  <sub>Consistent algorithmic problem solving across graphs, DP, and trees</sub>
-</td>
-</tr>
-<tr>
-<td colspan="4" align="center" valign="middle">
-  <br/>
-  <img src="https://img.shields.io/badge/Production_APIs_Shipped-15%2B_Endpoints-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack_%26_CLI_Systems-4_Production_Apps-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cryptographic_Signing-DSC_%2B_SHA--512-6366f1?style=for-the-badge" />
-  <br/><br/>
+<td width="33%" valign="middle" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ALMASJAFRI&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Coding Hours" />
 </td>
 </tr>
 </table>
 
 <br/>
-
 <!-- ============================== FOOTER ============================== -->
 <div align="center">
 
