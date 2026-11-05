@@ -278,7 +278,12 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
 </tr>
 <tr>
 <td colspan="3" valign="middle" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Almas Jafri's Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=ALMASJAFRI&background=0f172a&border=1e293b&stroke=1e293b&ring=38bdf8&fire=0ea5e9&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&v=2" width="65%" alt="Almas Jafri's GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="middle" align="center">
+  <img src="https://ghchart.rshah.org/0ea5e9/ALMASJAFRI" width="100%" alt="Almas Jafri's 890 Contributions Chart" />
 </td>
 </tr>
 </table>
