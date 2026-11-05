@@ -107,19 +107,6 @@ A local CLI developer agent that scans a codebase and writes technical PDF repor
 
 `Django` `PostgreSQL` `Redis`
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ALMASJAFRI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALMASJAFRI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALMASJAFRI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎓 Education
 
 - **B.Tech, Computer Science Engineering** (2024 – 2028) — BBDNIIT (AKTU)
