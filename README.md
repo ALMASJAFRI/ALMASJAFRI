@@ -1,7 +1,7 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Almas Jafri banner" />
+<img src="./banner.svg" width="100%" alt="Almas Jafri banner" />
 
 <a href="https://github.com/ALMASJAFRI">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=.NET+Core+%7C+Python+%7C+LangGraph;Secure+APIs+%E2%80%A2+SSO+%E2%80%A2+Bloom+Filters;Multi-Agent+AI+%26+Hybrid+RAG+Systems;7+Months+of+Production+Experience" alt="Typing SVG" />
@@ -212,6 +212,6 @@ A local CLI developer agent that scans a codebase and writes technical PDF repor
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="footer" />
+<img src="./footer.svg" width="100%" alt="footer" />
 
 </div>
