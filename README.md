@@ -217,26 +217,6 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
 
 <br/>
 
-<!-- ============================== STATS ============================== -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ALMASJAFRI&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALMASJAFRI&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ALMASJAFRI&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ALMASJAFRI&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="Trophies" />
-
-</div>
-
-<br/>
-
 <!-- ============================== EDUCATION ============================== -->
 <h2 align="center">🎓 Education</h2>
 
