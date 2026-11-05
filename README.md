@@ -1,11 +1,15 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Almas Jafri banner" />
+<img src="./assets/banner.svg" width="100%" alt="Almas Jafri banner" />
 
 <a href="https://github.com/ALMASJAFRI">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Backend+and+Full-Stack+Developer;Python+%7C+Django+%7C+.NET+Core+%7C+AI+Agents;Bloom+Filters+%E2%80%A2+JWT+Token+Versioning+%E2%80%A2+Hybrid+RAG;7+Months+of+Internship+Experience" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<sub><b>Django/DRF Backend Developer</b> | Redis Optimization | WebSockets | OAuth | GenAI | RAG (LangChain + Pinecone) | 170+ LeetCode</sub>
 
 <br/><br/>
 
@@ -53,11 +57,11 @@ Backend and Full-Stack Developer with **7 months of internship experience** buil
 <br/>
 
 <!-- ============================== TECH STACK ============================== -->
-<h2 align="center">🛠 Tech Stack</h2>
+<div align="center"><img src="./assets/h-tech.svg" width="100%" alt="Tech Stack" /></div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,js,html,css,redis,sqlite&perline=10&theme=dark" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,js,html,css,redis,postgres,sqlite&perline=10&theme=dark" alt="Core stack" />
 
 <br/>
 
@@ -96,7 +100,7 @@ Backend and Full-Stack Developer with **7 months of internship experience** buil
 <br/>
 
 <!-- ============================== EXPERIENCE ============================== -->
-<h2 align="center">💼 Work Experience</h2>
+<div align="center"><img src="./assets/h-experience.svg" width="100%" alt="Work Experience" /></div>
 
 <div align="center">
 
@@ -173,7 +177,7 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
 <br/>
 
 <!-- ============================== PROJECTS ============================== -->
-<h2 align="center">🧠 Projects</h2>
+<div align="center"><img src="./assets/h-projects.svg" width="100%" alt="Projects" /></div>
 
 <table align="center" width="100%">
 <tr>
@@ -223,8 +227,28 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
 
 <br/>
 
+<!-- ============================== STATS ============================== -->
+<div align="center"><img src="./assets/h-stats.svg" width="100%" alt="GitHub Stats" /></div>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ALMASJAFRI&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALMASJAFRI&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ALMASJAFRI&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ALMASJAFRI&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="Trophies" />
+
+</div>
+
+<br/>
+
 <!-- ============================== EDUCATION ============================== -->
-<h2 align="center">🎓 Education</h2>
+<div align="center"><img src="./assets/h-education.svg" width="100%" alt="Education" /></div>
 
 <table align="center" width="100%">
 <tr>
@@ -252,6 +276,6 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
 <!-- ============================== FOOTER ============================== -->
 <div align="center">
 
-<img src="./footer.svg" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="footer" />
 
 </div>
