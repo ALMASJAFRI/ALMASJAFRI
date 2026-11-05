@@ -1,0 +1,21 @@
+name: Generate Private & Public Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PRIV_TOKEN }}
+        with:
+          USERNAME: ALMASJAFRI
+          THEME: github_dark
+          UTC_OFFSET: 5.5
