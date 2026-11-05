@@ -61,7 +61,7 @@ Backend and Full-Stack Developer with **7 months of internship experience** buil
 
 <br/>
 
-<sub><b>Languages:</b> Python · C# (.NET Core) · SQL · JavaScript · HTML5 · CSS3</sub>
+<sub><b>Languages:</b> Python · C# (.NET Core) · SQL · SQL Server · JavaScript · HTML5 · CSS3</sub>
 
 <br/><br/>
 
