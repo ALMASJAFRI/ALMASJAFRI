@@ -57,7 +57,7 @@ Backend and Full-Stack Developer with **7 months of internship experience** buil
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,js,html,css,redis,postgres,sqlite&perline=10&theme=dark" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,js,html,css,redis,sqlite&perline=10&theme=dark" alt="Core stack" />
 
 <br/>
 
