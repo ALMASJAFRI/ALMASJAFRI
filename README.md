@@ -260,13 +260,13 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="middle" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%" alt="Repos per Language" />
 </td>
 <td width="34%" valign="middle" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ALMASJAFRI&theme=github_dark" width="100%" alt="Commits per Language" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" alt="Commits per Language" />
 </td>
 <td width="33%" valign="middle" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ALMASJAFRI&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Coding Hours" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" alt="Productive Coding Hours" />
 </td>
 </tr>
 </table>
@@ -279,7 +279,12 @@ Deployed production applications across **Render, PythonAnywhere, and Railway** 
   </a>
 </td>
 <td width="50%" valign="middle" align="center">
-  <img src="https://streak-stats.demolab.com?user=ALMASJAFRI&background=0f172a&border=1e293b&stroke=1e293b&ring=38bdf8&fire=0ea5e9&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" width="100%" alt="Almas Jafri's GitHub Streak" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="Almas Jafri's GitHub Stats" />
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="middle" align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Almas Jafri's Contribution Graph" />
 </td>
 </tr>
 </table>
