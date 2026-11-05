@@ -1,119 +1,217 @@
+<!-- ============================== HEADER ============================== -->
 <div align="center">
 
-# Hi, I'm Almas Jafri 👋
-
-### Backend & AI Systems Engineer · .NET Core · Python · LangGraph
-
-Backend and full-stack developer with **7 months of professional experience** building secure .NET Core APIs, SQL Server stored procedures and Python automation, plus **3+ production Django and AI applications**. I care about authentication, performance and agent systems that actually ship.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Almas%20Jafri&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=Backend%20%26%20AI%20Systems%20Engineer&descSize=22&descAlignY=62&animation=fadeIn" width="100%" alt="Almas Jafri banner" />
 
 <a href="https://github.com/ALMASJAFRI">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Backend+%26+Full-Stack+Developer;.NET+Core+%26+Python+Engineer;AI+%26+LangGraph+Agent+Builder;190%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=.NET+Core+%7C+Python+%7C+LangGraph;Secure+APIs+%E2%80%A2+SSO+%E2%80%A2+Bloom+Filters;Multi-Agent+AI+%26+Hybrid+RAG+Systems;7+Months+of+Production+Experience" alt="Typing SVG" />
 </a>
 
-<br />
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/almasjafri)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALMASJAFRI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@EXAMPLE.COM)
+<a href="https://linkedin.com/in/almasjafri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ALMASJAFRI"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:almasjafri12@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=ALMASJAFRI&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
 
 </div>
 
----
+<br/>
 
-## 📌 At a Glance
+<!-- ============================== ABOUT ============================== -->
+<table align="center" width="100%">
+<tr>
+<td width="62%" valign="top">
+
+### 👋 About Me
+
+Backend and full-stack developer with **7 months of professional experience** building secure **.NET Core APIs**, **SQL Server** stored procedures and **Python automation**, alongside **3+ production Django and AI applications**.
+
+I enjoy the hard parts of backend work: authentication, performance and agent systems that actually ship.
+
+- 🔐 Enforcing **single sign-in** with JWT token versioning
+- ⚡ Scaling login APIs with in-memory **Bloom filters**
+- 🤖 Building **multi-agent LangGraph** tools and **hybrid RAG** pipelines
+- 🧮 **190+** LeetCode problems solved
+
+</td>
+<td width="38%" valign="top">
+
+### ⚡ Quick Facts
 
 | | |
-|---|---|
-| 💼 **Experience** | 7 months · Backend Developer Intern @ Brainpan Innovation (Apr 2026 – Present) |
-| 📍 **Location** | Lucknow, Uttar Pradesh, India |
-| 🎓 **Education** | B.Tech, Computer Science Engineering (2024 – 2028) · BBDNIIT (AKTU) |
-| 🧩 **Focus** | Scalable backends, secure auth, multi-agent AI, .NET/Python integrations |
-| ⚡ **DSA** | 190+ LeetCode problems solved |
+|:--|:--|
+| 💼 **Role** | Backend Developer Intern |
+| 🏢 **Company** | Brainpan Innovation |
+| ⏳ **Experience** | 7 months (Apr 2026 – Present) |
+| 📍 **Location** | Lucknow, UP, India |
+| 🎓 **Education** | B.Tech CSE · BBDNIIT (AKTU) |
+| 🗓 **Batch** | 2024 – 2028 |
 
----
+</td>
+</tr>
+</table>
 
-## 🛠 Tech Stack
+<br/>
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<!-- ============================== TECH STACK ============================== -->
+<h2 align="center">🛠 Tech Stack</h2>
 
-**Backend & APIs**
-![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+<div align="center">
 
-**AI, Agents & RAG**
-![LangGraph](https://img.shields.io/badge/LangGraph-FF4F00?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4F46E5?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,js,html,css,redis,postgres,sqlite,git,github,docker,vscode,visualstudio&perline=8&theme=dark" alt="Core stack" />
 
-**Databases & Caching**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<br/><br/>
 
-**Security & Identity:** `JWT Token Versioning` · `Single Sign-In (SSO)` · `Magic Bytes Validation` · `iTextSharp / Bouncy Castle (DSC)` · `OAuth`
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
-**Also used:** `Tree-sitter` · `NetworkX` · `BM25 + RRF` · `Playwright` · `ReportLab` · `Textual` · `RapidOCR` · `Bloom Filters`
+</div>
 
----
+<br/>
 
-## 💼 Experience
+<table align="center" width="100%">
+<tr>
+<td width="25%" valign="top" align="center"><b>🧩 Backend & APIs</b><br/><sub>.NET Core Web API · Django · DRF · Custom Middleware · Celery</sub></td>
+<td width="25%" valign="top" align="center"><b>🤖 AI, Agents & RAG</b><br/><sub>LangGraph · LangChain · ChromaDB · Pinecone · BM25 · RRF · Tree-sitter · NetworkX</sub></td>
+<td width="25%" valign="top" align="center"><b>🔐 Security & Identity</b><br/><sub>JWT Token Versioning · SSO · Magic Bytes Validation · iTextSharp / Bouncy Castle · OAuth</sub></td>
+<td width="25%" valign="top" align="center"><b>🗄 Data & Performance</b><br/><sub>SQL Server (Stored Procs) · PostgreSQL · SQLite · Redis · Bloom Filters</sub></td>
+</tr>
+</table>
 
-### Backend Developer Intern — Brainpan Innovation
-**Apr 2026 – Present · 7 months · Lucknow, UP, India**
+<br/>
 
-| Area | What I built | Impact |
-|---|---|---|
-| 🔐 **Auth & SSO** | .NET Core authentication APIs with custom middleware and JWT token versioning | Strict single sign-in enforced across all active sessions |
-| ⚡ **Performance** | In-memory **Bloom filter** loaded on server startup to track unique emails (0.01% false-positive rate) | Filters out 99.99% of invalid lookups before they reach the database |
-| 🛡 **Upload security** | Binary file validation that inspects the first 11 magic bytes of each upload stream | Blocks 100% of spoofed file extensions before storage |
-| 🏛 **GovTech** | Digital PDF signature API using iTextSharp and Bouncy Castle, driven by upstream DSC payloads | Cryptographically signs official government PDFs |
-| 🗄 **Data & Reporting** | 10+ RESTful Admin APIs on SQL Server stored procedures; Python + RapidOCR background reporting workflows | Automated dashboard reporting end to end |
+<!-- ============================== EXPERIENCE ============================== -->
+<h2 align="center">💼 Experience</h2>
 
----
+<div align="center">
 
-## 🧠 Featured Projects
+<img src="https://img.shields.io/badge/Backend%20Developer%20Intern-Brainpan%20Innovation-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apr%202026%20%E2%80%93%20Present-7%20Months-22c55e?style=for-the-badge" />
 
-### 💻 Docmaker & Docmaker-CLI — Autonomous Docs-as-a-Service Agent
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🔐 Authentication & SSO
+Engineered **.NET Core** authentication APIs with custom middleware and **JWT token versioning**, enforcing strict single sign-in across all active sessions.
+
+#### ⚡ System Optimization
+Registered an in-memory **Bloom filter** on server startup to track unique emails at a **0.01% false-positive rate**, filtering out **99.99%** of invalid lookups before they reach the database.
+
+#### 🛡 Upload Security
+Added binary validation by inspecting the first **11 magic bytes** of every upload stream, blocking **100%** of spoofed extensions before storage.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏛 GovTech Integrations
+Built a digital PDF signature API with **iTextSharp** and **Bouncy Castle** to cryptographically sign official government PDFs from upstream **DSC** payloads.
+
+#### 🗄 Database & Reporting
+Developed **10+ RESTful Admin APIs** on end-to-end **SQL Server** stored procedures.
+
+#### 🤖 Automation
+Automated background dashboard reporting workflows using **Python** and **RapidOCR**.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================== PROJECTS ============================== -->
+<h2 align="center">🧠 Featured Projects</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="100%" valign="top">
+
+### 💻 Docmaker & Docmaker-CLI
+**Autonomous Docs-as-a-Service Agent**
+
 A local CLI developer agent that scans a codebase and writes technical PDF reports.
 
-- **Multi-agent design:** LangGraph orchestrator with sub-agents generating **7 report types** (security audits, architecture and more).
-- **Smart repo scanning:** Multi-language scanner using **Tree-sitter** and a **NetworkX** graph, with delta detection so only modified files are re-indexed.
-- **Hybrid RAG:** Semantic search (ChromaDB, Pinecone) combined with lexical **BM25**, merged via **Reciprocal Rank Fusion**.
-- **Tooling & TUI:** 6+ custom agent tools validated by strict **Pydantic** schemas, inside an interactive **Textual** TUI with Playwright and ReportLab rendering.
+- 🧠 **Multi-agent design:** LangGraph orchestrator with sub-agents generating **7 report types** (security audits, architecture and more)
+- 🌳 **Smart repo scanning:** multi-language scanner using **Tree-sitter** and a **NetworkX** graph, with delta detection so only modified files are re-indexed
+- 🔎 **Hybrid RAG:** semantic search (ChromaDB, Pinecone) plus lexical **BM25**, merged with **Reciprocal Rank Fusion**
+- 🖥 **Tooling & TUI:** 6+ custom agent tools validated by strict **Pydantic** schemas in an interactive **Textual** TUI with Playwright and ReportLab rendering
 
-`LangGraph` `Tree-sitter` `NetworkX` `ChromaDB` `Pinecone` `BM25` `Pydantic` `Textual`
+<img src="https://img.shields.io/badge/LangGraph-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Tree--sitter-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/NetworkX-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Pinecone-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/BM25-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Pydantic-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Textual-0f172a?style=flat-square" />
 
-### 🛒 Project Nexus AI — AI-Powered E-Commerce Marketplace
-- Full-stack marketplace with custom authentication, dynamic multi-variant pricing and Cloudinary CDN media management.
-- **PayU** integration using SHA-512 transaction hashing, with automated error recovery.
-- Codebase documentation pipeline (LangChain, ReportLab, Redis, `ThreadPoolExecutor`) that cuts PDF generation response times through concurrency.
+</td>
+</tr>
+</table>
 
-`Django` `Redis` `LangChain` `Cloudinary` `PayU`
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 📊 Business VEN — Inventory & Financial Management System
-- Normalized relational schema with composite indexes and foreign-key constraints for real-time tracking and dashboards.
-- Faster page loads through Redis view caching and custom Django context processors.
+### 🛒 Project Nexus AI
+**AI-Powered E-Commerce Marketplace**
 
-`Django` `PostgreSQL` `Redis`
+- Full-stack marketplace with custom auth, dynamic multi-variant pricing and **Cloudinary CDN** media management
+- **PayU** gateway with **SHA-512** transaction hashing and automated error recovery
+- Codebase documentation pipeline (LangChain, ReportLab, Redis, `ThreadPoolExecutor`) that cuts PDF generation time through concurrency
 
-## 🎓 Education
+<img src="https://img.shields.io/badge/Django-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/PayU-0f172a?style=flat-square" />
 
-- **B.Tech, Computer Science Engineering** (2024 – 2028) — BBDNIIT (AKTU)
-- **Class 12 (ISC):** 90% · **Class 10 (ICSE):** 91%
+</td>
+<td width="50%" valign="top">
 
----
+### 💼 Business VEN
+**Inventory & Financial Management System**
 
-<p align="center">
-  <em>⚡ Currently focused on scalable backend architectures, multi-agent AI systems, and high-performance .NET/Python integrations.</em>
-</p>
+- Normalized relational schema with **composite indexes** and foreign-key constraints for real-time tracking and dashboards
+- Faster page loads through **Redis view caching** and custom Django context processors
+
+<img src="https://img.shields.io/badge/Django-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================== EDUCATION ============================== -->
+<h2 align="center">🎓 Education</h2>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+<b>B.Tech, Computer Science Engineering</b><br/>
+<sub>BBDNIIT (AKTU) · 2024 – 2028</sub>
+</td>
+<td align="center" width="25%">
+<b>Class 12 (ISC)</b><br/>
+<sub>90%</sub>
+</td>
+<td align="center" width="25%">
+<b>Class 10 (ICSE)</b><br/>
+<sub>91%</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================== FOOTER ============================== -->
+<div align="center">
+
+<i>⚡ Currently focused on scalable backend architectures, multi-agent AI systems, and high-performance .NET/Python integrations.</i>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="footer" />
+
+</div>
