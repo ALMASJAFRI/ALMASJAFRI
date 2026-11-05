@@ -1,7 +1,7 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Almas%20Jafri&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=Backend%20%26%20AI%20Systems%20Engineer&descSize=22&descAlignY=62&animation=fadeIn" width="100%" alt="Almas Jafri banner" />
+<img src="./assets/banner.svg" width="100%" alt="Almas Jafri banner" />
 
 <a href="https://github.com/ALMASJAFRI">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=.NET+Core+%7C+Python+%7C+LangGraph;Secure+APIs+%E2%80%A2+SSO+%E2%80%A2+Bloom+Filters;Multi-Agent+AI+%26+Hybrid+RAG+Systems;7+Months+of+Production+Experience" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 <a href="https://linkedin.com/in/almasjafri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ALMASJAFRI"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:almasjafri12@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=ALMASJAFRI&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
 
 </div>
@@ -183,6 +183,26 @@ A local CLI developer agent that scans a codebase and writes technical PDF repor
 
 <br/>
 
+<!-- ============================== STATS ============================== -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ALMASJAFRI&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALMASJAFRI&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ALMASJAFRI&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ALMASJAFRI&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="Trophies" />
+
+</div>
+
+<br/>
+
 <!-- ============================== EDUCATION ============================== -->
 <h2 align="center">🎓 Education</h2>
 
@@ -212,6 +232,6 @@ A local CLI developer agent that scans a codebase and writes technical PDF repor
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="footer" />
 
 </div>
